@@ -6,7 +6,7 @@ Thanks for using [Fetch](http://fetch.gomakethings.com/). If you have a question
 
 ## Reporting a bug
 
-First, **make sure the bug hasn't already been reported** by [searching the issues section](https://github.com/cferdinandi/fetch/issues?utf8=%E2%9C%93&q=is%3Aissue).
+First, **make sure the bug hasn't already been reported** by [searching the issues section](https://github.com/cferdinandi/fetch-bugs/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
 If no existing issue exists, go ahead and create one. **Please be sure to include all of the following:**
 
